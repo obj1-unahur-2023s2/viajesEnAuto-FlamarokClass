@@ -1,0 +1,51 @@
+import clientes.*
+import remiseras.*
+
+describe "test de roxana" {
+
+test "testX" {
+
+	assert.that(true)
+	}
+
+}
+describe "test de gabriela" {
+
+test "testX" {
+
+	assert.that(true)
+	}
+
+}
+describe "test de mariela" {
+
+test "testX" {
+
+	assert.that(true)
+	}
+
+}
+describe "test de juana" {
+
+test "testX" {
+
+	assert.that(true)
+	}
+
+}
+describe "test de lucia" {
+
+test "testX" {
+
+	assert.that(true)
+	}
+
+}
+describe "test de melina" {
+
+test "testX" {
+
+	assert.that(true)
+	}
+
+}
